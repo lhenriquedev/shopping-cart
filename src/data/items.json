@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburguer",
+    "price": 24.99,
+    "description": "Um hamburguer delicioso com 2 carnes 80g, bacon e queijo cheddar.",
+    "imgUrl": "/imgs/hamburguer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sushi",
+    "price": 46.99,
+    "description": "Um sushi com várias opções de acompanhamentos.",
+    "imgUrl": "/imgs/japan-food.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "price": 87.99,
+    "description": "Uma pizza de strognoff de carne com bastante batata palha.",
+    "imgUrl": "/imgs/pizza.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Salada",
+    "price": 15.0,
+    "description": "Uma salada saudável com vários tipos de verduras.",
+    "imgUrl": "/imgs/salad.jpg"
+  }
+]
